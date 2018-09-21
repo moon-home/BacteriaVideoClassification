@@ -1,0 +1,16 @@
+name: py2.7
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ffmpeg=4.0.2=hf3b33df_0
+  - certifi=2018.8.24=py27_1
+  - pip=10.0.1=py27_0
+  - python=2.7.15=he216670_0
+  - setuptools=40.2.0=py27_0
+  - vc=9=h7299396_1
+  - vs2008_runtime=9.00.30729.1=hfaea7d5_1
+  - wheel=0.31.1=py27_0
+  - wincertstore=0.2=py27hf04cefb_0
+prefix: C:\Users\Yue Ma\Anaconda\envs\py2.7
+
