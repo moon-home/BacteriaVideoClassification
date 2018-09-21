@@ -1,4 +1,4 @@
-# ParticleVideoClassification
+# Generate Dense Optical Flow
 
 ## Dense.ipynb
 This file can generate dense optical flow video from a regular video.
