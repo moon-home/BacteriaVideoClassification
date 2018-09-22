@@ -1,0 +1,6 @@
+name: SPTopencv3
+channels:
+  - defaults
+  - conda-forge
+prefix: C:\Users\Yue Ma\Anaconda\envs\SPTopencv3\envs\SPTopencv3
+
