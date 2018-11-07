@@ -6,3 +6,6 @@ This is the environment file for setting up the verisions of python and ffmpeg f
 
 ## Img2Vid.ipynb
 This file converts a folder of images into a video.
+
+## BigVid2LitVid.ipynb
+This file cut all long videos (e.g. 10min) from a folder into smaller videos (e.g. 5s). Smaller videos are put into the same folder as long videos.
